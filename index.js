@@ -2,7 +2,7 @@ let any = ['31', '2', '3'];
 
 function arraySort (any) {
     return any.sort(function (a, b) {
-        let s  = 'asdlk';
+        let s  = 'asdlksss';
         return a.localeCompare(b);
     })
 }
